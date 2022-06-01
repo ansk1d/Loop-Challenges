@@ -41,9 +41,25 @@
 // console.log(totel())
 
 
+// var sum = 0;
+// for(var i=1; i<101; i++) {
+//     sum += i;
+// }                                     The Solve!
+// console.log(sum);
+
+
 // Factorial
 // Write code that will multiply all of the values from 1-12 onto some variable product and at
 // the end console.log the result 1 * 2 * 3 * ... * 10 * 11 * 12. We should get back 479001600
 // at the end.
 
-//SSAAAAMMMMMEEEEEE  didn't fisnish IT!!!!!!!!!!!!!
+//                         SSAAAAMMMMMEEEEEE  didn't fisnish IT!!!!!!!!!!!!!
+
+
+
+
+// var product = 1;
+// for(var i=1; i<13; i++) {
+//     product *= i;                    The Solve!
+// }
+// console.log(product);
